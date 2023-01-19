@@ -10,11 +10,11 @@ app = FastAPI(title='App',
             description='Primer Proyecto Data 06 Data Engineer',
             version='1.0.1')
 
-#http://127.0.0.1:8000 Pueto donde se encuentra la aplicacion api
+#http://127.0.0.1:8000 Puerto donde se encuentra la aplicacion api
 
 @app.get('/') #Primera ruta
 def get_bienvenida():
-    return 'Bienvenidos, en esta aplicacion encontras las diferentes peliculas/series de las plataformas de amazon, disney, hulu y netflix. realiza tus consuta'
+    return 'Saludos, aplicacion para hallar diferentes movies y series de plataformas amazon, disney, hulu y netflix. realiza tus busquedas'
 
 ##Cantidad de veces que aparece una keyword en el título de peliculas/series, por plataforma
 @app.get('/keyword/{plataforma}/{keyword}') #Segunda ruta
@@ -57,13 +57,13 @@ def get_rating_count(rating):
     return {'rating':rating, 'cantidad':len(cantidad)}
 
 ##Se obtuvo la ruta/direccion/link de la API con DETA 
-##        "name": "FASTAPIDETA",
+##        "name": "Nelson Alejandro Castro Andrews",
         ##"id": "fec4e67d-c894-4c44-891c-df2f53f20f92",
         ##"project": "e0bnmq7o",
         ##"runtime": "python3.9",
-        ##"endpoint": "https://1aj8la.deta.dev",
+        ##"endpoint": "https://luyknr.deta.dev",
         ##"region": "sa-east-1",
         ##"visor": "disabled",
         ##"http_auth": "disabled"
 ## Se autorizo al publico con deta auth disable
-## Para realizar consultas a la API ENTRAR AL SIGUIENTE LINK: https://1aj8la.deta.dev
+## Para realizar consultas a la API ENTRAR AL SIGUIENTE LINK: https://luyknr.deta.dev

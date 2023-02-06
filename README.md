@@ -1,4 +1,4 @@
-﻿# ##`Project-one`##
+﻿# **`Project-one`**
 <p align=center><img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png><p>
 
 # <h1 align=center>¡Bienvenidos a la presentación de mi primer proyecto individual de la etapa de labs! en el rol de un ***Data Engineer***.</h1>
@@ -14,7 +14,7 @@ como el analista de datos requiere estas, y solo estas, transformaciones para su
 
 En primer lugar generare el campo campo id: según se requiere para cada id que se compondrá de la primera letra del nombre de la plataforma, seguido del show_id ya presente en los datasets (ejemplo para títulos de Amazon = as123) 
 
-## Aplicando:
+## `Aplicando`:
 
 ### a) El Importar librerías para manipular los datos
 `Libreria Pandas y la libreria Numpy`

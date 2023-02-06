@@ -65,4 +65,3 @@ En esta descripción el codigo comienza con estas dos líneas que no son Mostrad
 <img src="https://files.realpython.com/media/What-is-Data-Engineering_Watermarked.607e761a3c0e.jpg"  height=300>
 </p>
 
-`rgb(R,G,B)`

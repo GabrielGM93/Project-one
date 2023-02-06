@@ -1,7 +1,7 @@
 ﻿# Project-one
 <p align=center><img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png><p>
 
-# <h1 align=center>¡Bienvenidos a la presentación de mi primer proyecto individual de la etapa de labs! en el rol de un ***Data Engineer***.</h1>
+# `#RRGGBB` <h1 align=center>¡Bienvenidos a la presentación de mi primer proyecto individual de la etapa de labs! en el rol de un ***Data Engineer***.</h1>
 
 # <h1 align=center> **Labs PROYECTO INDIVIDUAL Nº1** </h1>
 Este proyecto tiene como objeto, mostrar las diversas habilidades y destrezas adquiridas y desarrolladas a lo largo de los modulos I, II, III Y IV Concretamente, estos son los temas que hacen referencia directa a la Data Engineering. En ellos alcanzamos suficiencia en el bootcamp,  durante la carrera de Data Science en Henry. Ahora en una nueva etapa el Labs, que recien inicia. Con este proyecto estare presentando lo mejor de mi, no solo con el fin apremiante de aprobar para obtener una calificación con una amplia suficiencia en el tema,  Mas bien demostrar en este rol, los valores, profesionalización, entrega, dedicación y buscar como estudiante destacar el nivel de excelencia en el código requerido, además de las habilidades blandas como empatia y busqueda de la comprensión del trabajo propuesto es la unica forma de tener una excelente interpretación de código a nivel requerido para el desarrollo de la tarea como Data Engineer.

@@ -55,7 +55,7 @@ En esta descripción el codigo comienza con estas dos líneas que no son Mostrad
 
 # <h1 align=center> DATA ENGINEER **Nelson Alejandro Castro Andrews** </h1>
 ## <h1 align=center> XD Sin dejar la empatia a un lado, hasta aqui la primera parte del proyecto individual</h1>
-<video src='[your URL here](https://www.youtube.com/watch?v=o-_xr4jgZbs' width=180/><p>
+<video src='[your URL here](https://www.youtube.com/watch?v=o-_xr4jgZbs' width=180/>
 # <h1 align=center>**`Data Engineering`**</h1>
 
 <p align="center">

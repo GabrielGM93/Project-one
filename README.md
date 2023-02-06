@@ -55,8 +55,8 @@ En esta descripción el codigo comienza con estas dos líneas que no son Mostrad
 
 # <h1 align=center> DATA ENGINEER **Nelson Alejandro Castro Andrews** </h1>
 ## <h1 align=center> XD Sin dejar la empatia a un lado, hasta aqui la primera parte del proyecto individual</h1>
-<video src='https://www.youtube.com/watch?v=o-_xr4jgZbs' width=180/>
-# <h1 align=center>**`Data Engineering`**</h1>
+<img src="https://img.youtube.com/vi/watch?v=o-_xr4jgZbs/maxresdefault.jpg" width="50%">](https://youtu.be/watch?v=o-_xr4jgZbs)
+ # <h1 align=center>**`Data Engineering`**</h1>
 
 <p align="center">
 <img src="https://files.realpython.com/media/What-is-Data-Engineering_Watermarked.607e761a3c0e.jpg"  height=300>

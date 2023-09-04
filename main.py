@@ -55,15 +55,3 @@ def get_longest(plataforma, tipo_de_duracion, anio: int):
 def get_rating_count(rating):
     cantidad= canales[canales["rating"]== rating]
     return {'rating':rating, 'cantidad':len(cantidad)}
-
-##Se obtuvo la ruta/direccion/link de la API con DETA 
-##        "name": "Nelson Alejandro Castro Andrews",
-        ##"id": "fec4e67d-c894-4c44-891c-df2f53f20f92",
-        ##"project": "e0bnmq7o",
-        ##"runtime": "python3.9",
-        ##"endpoint": "https://luyknr.deta.dev",
-        ##"region": "sa-east-1",
-        ##"visor": "disabled",
-        ##"http_auth": "disabled"
-## Se autorizo al publico con deta auth disable
-## Para realizar consultas a la API ENTRAR AL SIGUIENTE LINK: https://luyknr.deta.dev
